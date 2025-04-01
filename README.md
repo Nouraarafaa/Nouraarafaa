@@ -43,6 +43,11 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  
+- **Databases**:
+
+   ![SQL](https://img.shields.io/badge/sql%20-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 
 - **Version Control**:
 

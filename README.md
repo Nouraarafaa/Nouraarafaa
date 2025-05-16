@@ -16,7 +16,6 @@
 
 
 - I'm student in faculty of Computers and Artificial Intelligence - Cairo University 
-- Angular Front-end Developer
 
 <br><br>
 

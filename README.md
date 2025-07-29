@@ -10,8 +10,6 @@
 
 ## 🧕 About Me
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> 
-
 -  I'm a student at the Faculty of Computers and Artificial Intelligence – Cairo University.
 -  I enjoy building modern web apps and learning new technologies.
 -  Actively improving my skills.

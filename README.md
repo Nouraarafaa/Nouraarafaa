@@ -10,9 +10,7 @@
 
 ## 🧕 About Me
 
--  I'm a student at the Faculty of Computers and Artificial Intelligence – Cairo University.
--  I enjoy building modern web apps and learning new technologies.
--  Actively improving my skills.
+I'm Noura Muhammad Arafa, a highly motivated Computers and Artificial intelligence Student at Cairo University with a strong foundation in front-end development , I am eager to apply my skills to real-world projects , and I'm actively seeking opportunities to contribute my skills to a dynamic team and gain practical experience in the tech industry.
 
 ---
 
